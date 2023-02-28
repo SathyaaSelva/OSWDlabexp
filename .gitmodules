@@ -1,3 +1,6 @@
 [submodule "FIT-experiment"]
 	path = FIT-experiment
 	url = https://github.com/SathyaaSelva/FIT-experiment.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir/
